@@ -3,6 +3,8 @@
 ### Brief  
 The CRM database contains all the customer-related information like - Name, Age, Gender, Item Purchased, Email, Mobile number and many other such columns. This database helps an organisation in journeying through a whole customer life-cycle for a given product or service, that helps the organisation stay connected with its customers. A typical CRM DBS will contain tables for Employees, Customers, Products, Stores, Service Centres.
 ### ER Diagram
+![ERD_A](https://user-images.githubusercontent.com/93238067/157729511-c94edbec-2f40-4d3e-88c1-9baba13a9572.jpg)
+
 
 
 ### About Files
@@ -27,6 +29,8 @@ j.Concessions ( if any)
 And other important fields.
 ####
 ### ER Diagram
+![ERD_B](https://user-images.githubusercontent.com/93238067/157729590-9ab6cac8-5e74-4f2c-abc4-19887e2cde0a.jpg)
+
 
 ####
 ### About Files
